@@ -1,0 +1,25 @@
+{
+  "name": "nodeimplementation",
+  "version": "1.0.0",
+  "description": "nodejs implementation ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadtab/node3rd2020.git"
+  },
+  "author": "tatdab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadtab/node3rd2020/issues"
+  },
+  "homepage": "https://github.com/tadtab/node3rd2020#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
